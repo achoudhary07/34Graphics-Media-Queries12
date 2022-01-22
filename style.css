@@ -1,0 +1,16 @@
+body{
+
+background:lightcyan url("https://bit.ly/3h2VSOf") no-repeat top right fixed;height:1500px;
+}
+
+@media only screen and (min-width:600px){
+  body{
+    background-color: olive;
+    color:yellow;
+  }
+
+  svg{
+    border:solid maroon 15px;
+    opacity:0.3;
+  
+}
